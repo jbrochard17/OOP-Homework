@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\lights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\lights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\speakers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\speakers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\tvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\tvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\chairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\chairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jadeb\\onedrive\\documents\\mobilite\\cours\\oop\\oop homework\\4\\consoleapp1\\consoleapp1\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lights.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Lights.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Lights.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Lights.cs",
+              "RelativeToolTip": "ConsoleApp1\\Lights.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:57:36.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Light.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Light.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Light.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Light.cs",
+              "RelativeToolTip": "ConsoleApp1\\Light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:54:38.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Class.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Class.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:51:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Lecturer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Lecturer.cs",
+              "RelativeToolTip": "ConsoleApp1\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:47:32.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Students.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Students.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Students.cs",
+              "RelativeToolTip": "ConsoleApp1\\Students.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:43:36.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Student.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Student.cs",
+              "RelativeToolTip": "ConsoleApp1\\Student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:38:38.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Speakers.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Speakers.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Speakers.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Speakers.cs",
+              "RelativeToolTip": "ConsoleApp1\\Speakers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:33:26.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Speaker.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Speaker.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Speaker.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Speaker.cs",
+              "RelativeToolTip": "ConsoleApp1\\Speaker.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:31:05.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TVs.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\TVs.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TVs.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\TVs.cs",
+              "RelativeToolTip": "ConsoleApp1\\TVs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:27:02.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TV.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\TV.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TV.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\TV.cs",
+              "RelativeToolTip": "ConsoleApp1\\TV.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:22:08.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tables.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Tables.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Tables.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Tables.cs",
+              "RelativeToolTip": "ConsoleApp1\\Tables.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:17:36.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Table.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Table.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Table.cs",
+              "RelativeToolTip": "ConsoleApp1\\Table.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T13:01:37.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Chairs.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Chairs.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Chairs.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Chairs.cs",
+              "RelativeToolTip": "ConsoleApp1\\Chairs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:58:04.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:07:06.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Position.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Position.cs",
+              "ToolTip": "C:\\Users\\jadeb\\OneDrive\\Documents\\mobilite\\cours\\OOP\\OOP Homework\\4\\ConsoleApp1\\ConsoleApp1\\Position.cs",
+              "RelativeToolTip": "ConsoleApp1\\Position.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:11:50.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

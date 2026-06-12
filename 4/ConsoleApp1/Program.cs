@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ConsoleApp1
+{
+    internal class Chair
+    {
+        // Fields
+        private string _material;
+        public string Material { get; set; }
+        private string _color;
+        public string Color { get; set; }
+        private int _numberOfLegs;
+        public int NumberOfLegs { get; set; }
+        private Position _pos;
+        public Position Pos { get; set; }
+
+
+
+        // Constructor
+        public Chair(string material, string color, int numberOfLegs, Position position)
+        {
+            this._material = material;
+            this._color = color;
+            this._numberOfLegs = numberOfLegs;
+            this._pos = position;
+        }
+
+        // Method to display chair information
+        public void DisplayInfo()
+        {
+            Console.WriteLine($"Chair Material: {_material}");
+            Console.WriteLine($"Chair Color: {_color}");
+            Console.WriteLine($"Number of Legs: {_numberOfLegs}");
+            Console.WriteLine($"Position: ({_pos.x}, {_pos.y})");
+        }
+
+
+        public void MoveToPosition(Position newPosition)
+        {
+            _pos = newPosition;
+            Console.WriteLine($"Chair moved to new position: ({_pos.x}, {_pos.y})");
+        }
+
+        public void MoveLeft()
+        {
+            _pos.x -= 1;
+        }
+        public void MoveRight()
+        {
+            _pos.x += 1;
+        }
+
+        static void Main(string[] args) {}
+
+    }
+}
